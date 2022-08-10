@@ -1,4 +1,4 @@
- #    Hello, I'm Jessy 🙋🏻‍♀️✨
+                                      Hello, I'm Jessy 🙋🏻‍♀️✨
 ###### 🔗💜
 
                                     I'm Tech Recruiter form Mexico 🇲🇽🌶️🌮
@@ -13,9 +13,7 @@ Tech passionate psychologist
 
 
 
- <img src="img/jessgithub.png" alt="Image" width="250px" height="250px" style="display: block; margin: 0 auto" />
-
-
+ <img src="img/jessgithub.png" alt="Image" width="350px" height="350px" style="display: block; margin: 0 auto" />
 
 
 
@@ -24,6 +22,7 @@ Tech passionate psychologist
 
 
 - Need help to improve your CV or LinkedIn?  ¡Hagámoslo juntxs! Coaching de empleabilidad, CV, LinkedIn y preparación para entrevistas que te pondrán al TOP de tus postulaciones 🔝💛
+  
 
 
 
