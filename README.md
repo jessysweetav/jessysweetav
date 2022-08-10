@@ -1,7 +1,7 @@
- #      Hello, I'm Jessy 🙋🏻‍♀️✨
+ #    Hello, I'm Jessy 🙋🏻‍♀️✨
 ###### 🔗💜
 
-              I'm Tech Recruiter form Mexico 🇲🇽🌶️🌮
+                                    I'm Tech Recruiter form Mexico 🇲🇽🌶️🌮
 
 
 
@@ -11,7 +11,11 @@ Tech passionate psychologist
 👩🏻‍💻💜
 
 
-![](img/jessgithub.png)
+
+
+ <img src="img/jessgithub.png" alt="Image" width="250px" height="250px" style="display: block; margin: 0 auto" />
+
+
 
 
 
