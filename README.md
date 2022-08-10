@@ -19,7 +19,7 @@ Tech passionate psychologist
 - Si quieres unirte a una mega empresa con más de 30 perks, [clickea aquí]() para ver todas las cool opportunities!
 
 
-- Need help to improve your CV or LinkedIn?   Coaching de empleabilidad y preparación para entrevistas que te pondrán al TOP 🔝💛
+- Need help to improve your CV or LinkedIn?  ¡Hagámoslo juntxs! Coaching de empleabilidad, CV, LinkedIn y preparación para entrevistas que te pondrán al TOP de tus postulaciones 🔝💛
 
 
 
