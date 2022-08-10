@@ -1,16 +1,15 @@
+
+
+
+                                    Mexican Tech Recruiter 🇲🇽🌶️🌮
+
+
 # <center> Hello I'm Jessy🙋🏻‍♀️✨ </center>
-###### 🔗💜
-
-                                    I'm Tech Recruiter form Mexico 🇲🇽🌶️🌮
-
-
 
 Siempre hablo spanglish aquí, haha, me gusta el queso parmesano y los cuentos cortos. 📖✨
 
 Tech passionate psychologist 
 👩🏻‍💻💜
-
-
 
 
  <img src="img/jessgithub.png" alt="Image" width="350px" height="350px" style="display: block; margin: 0 auto" />
