@@ -23,8 +23,6 @@ Tech passionate psychologist
 - Need help to improve your CV or LinkedIn?  ¡Hagámoslo juntxs! Coaching de empleabilidad, CV, LinkedIn y preparación para entrevistas que te pondrán al TOP de tus postulaciones 🔝💛
   
 ###### .
-###### .
-###### .
 
 
 
