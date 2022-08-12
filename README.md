@@ -18,7 +18,7 @@ Tech passionate psychologist
 
 
 
-- Si quieres unirte a una mega empresa con más de 30 perks, [clickea aquí](https://github.com/jessysweetav/cool-it-jobs) para ver todas las cool opportunities!
+- Si quieres unirte a una mega empresa con más de 30 perks, [clickea aquí](https://github.com/jessysweetav/cool-it-jobs/wiki) para ver todas las cool opportunities!
 
 
 - Need help to improve your CV or LinkedIn?  ¡Hagámoslo juntxs! Coaching de empleabilidad, CV, LinkedIn y preparación para entrevistas que te pondrán al TOP de tus postulaciones 🔝💛
