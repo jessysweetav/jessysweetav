@@ -14,6 +14,7 @@ Tech passionate psychologist
 
  <img src="img/jessgithub.png" alt="Image" width="350px" height="350px" style="display: block; margin: 0 auto" />
 
+✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨
 
 
 
