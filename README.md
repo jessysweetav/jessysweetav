@@ -26,7 +26,7 @@ Tech passionate psychologist
 
 
 
-Add me on [LinkedIn](https://wwww.linkedin.com/jessicagallardo97) or let's follow each other on [Instagram](https://www.instagram.com/jessysweetav) 📱💙
+Add me on [LinkedIn](https://wwww.linkedin.com/in/jessicagallardo97) or let's follow each other on [Instagram](https://www.instagram.com/jessysweetav) 📱💙
 
 
 ``🏳️‍🌈 Diverse & inclusive recruitment``
